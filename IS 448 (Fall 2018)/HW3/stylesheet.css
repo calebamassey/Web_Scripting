@@ -1,0 +1,15 @@
+div{
+   background-color: #D8C858;
+   border: 4px Black solid;
+   padding: 0.5em;
+   margin: 20px;
+   text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+#blog{
+   background-color: white;
+}

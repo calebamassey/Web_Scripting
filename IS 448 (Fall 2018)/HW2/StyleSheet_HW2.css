@@ -1,0 +1,35 @@
+html{
+	background-color: grey;
+}
+
+div {
+	margin: 50px;
+	border: solid black;
+	background-color: white;
+	text-align: center;
+}
+
+h1{
+	font-weight: bold;
+	font-family: georgia;
+}
+
+.blue{
+	color: blue;
+	font-style: italic;
+}
+
+#red{
+	color: red;
+	font-style: italic;
+}
+
+.green{
+	color: green;
+	font-style: italic;
+}
+
+body{
+	line-height: 1.5;
+	padding: 10px;
+}

@@ -1,0 +1,21 @@
+
+*{
+	background-color: yellow;
+}
+
+h1{
+	font-family: Comic Sans MS;
+}
+
+a{
+	color: red;
+	font-weight: bold;
+}
+
+li{
+font-family: Lucida Console;	
+}
+
+ul{
+	list-style-type: square;
+}

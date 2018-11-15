@@ -1,0 +1,31 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Using regular expressions</title>
+
+<script type="text/javascript">
+/*function should check that the user entered only letters and no numbers */
+function check_name(name){
+ var result = name.search(/\d+/);
+
+ if (result >= 0) {
+    document.write("You made a mistake, " + name + " is not a valid name, please reload page and try again");
+ }
+ else {   
+    document.write("Welcome " + name);
+ }
+}
+</script>
+</head>
+
+
+<body>
+<h1>Using regular expressions</h1>
+<script type="text/javascript">
+  var username = prompt("Enter your name with only characters and no numbers");
+  check_name(username);
+</script>
+
+
+      
+	  
+	  
+</body></html>

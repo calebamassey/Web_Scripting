@@ -1,0 +1,54 @@
+html{
+	margin: 50px;
+}
+
+h1{
+	color: #A4A400;
+	background-color: #F0F0F0;
+	text-decoration: underline;
+	font-family: Century Gothic;
+	text-align: center;
+	font-size: 22pt;
+	font-weight: bold;
+	}
+
+h2{
+	color: #A4A400;
+	background-color: #F0F0F0;
+	text-decoration: underline;
+	font-family: Century Gothic;
+	text-align: left;
+	font-size: 18pt;	
+}
+
+body{
+	color: #404040;
+	font-size: 11pt;
+	font-family: Georgia;
+}
+
+a{
+	color: #A4A400
+}
+
+.MajorStep{
+	font-weight: bold;
+	
+}
+
+.comment{
+	background-color: #FFFFC8;
+	margin-left: 40px;
+	font-style: italic;
+}
+
+.gap{
+	background-color: white;
+	padding:5px;
+}
+
+.copyright{
+	font-family: monospace;
+	text-align-last: right;
+	float: left;
+}
